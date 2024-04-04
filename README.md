@@ -5,7 +5,7 @@ Now, I'm going to get into saying how to use this.
 
 #### Installation
 
-First of all, you have to the [Releases](https://github.com/eyesdev/pydb/releases) and drag the pydb.py file into your folder that you are editting the file in. Then type `import pydb` in the file ur editting in and congratulations, you have imported pydb!
+First of all, you have to the [Releases](https://github.com/eyesdev/pydb/releases), download the latest version and drag the pydb.py file into your folder that you are editting the file in. Then type `import pydb` in the file ur editting in and congratulations, you have imported pydb!
 Now, to use pydb you have to add it to your code.
 To have a quick example of pydb, you can open `example.py` which is **in this github repository** or you can look at **this codeblock** to see a quick example of using pydb.
 
